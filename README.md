@@ -1,0 +1,2 @@
+# AnimatedSliderSPFx
+AnimatedSliderSPFx using JS
